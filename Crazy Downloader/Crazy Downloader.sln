@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazy Downloader", "Crazy Downloader.csproj", "{646C2259-BC68-424C-AE96-A9D07D3DD398}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PlaylistInfo", "PlaylistInfo\PlaylistInfo.pyproj", "{EB9C32D7-4AC4-45B5-8E10-F0025092619F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646C2259-BC68-424C-AE96-A9D07D3DD398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646C2259-BC68-424C-AE96-A9D07D3DD398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646C2259-BC68-424C-AE96-A9D07D3DD398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646C2259-BC68-424C-AE96-A9D07D3DD398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9C32D7-4AC4-45B5-8E10-F0025092619F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9C32D7-4AC4-45B5-8E10-F0025092619F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2DF1D6-F507-4276-B389-9A688EB10975}
+	EndGlobalSection
+EndGlobal
